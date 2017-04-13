@@ -36,10 +36,23 @@
 #custom-bootstrap-menu.navbar-default .navbar-toggle:focus .icon-bar {
     background-color: #11254f;
 }
-
+.container-fluid img {
+    display: block;
+    margin: 0 auto;
+    width: 10%;
+    height: auto;
+}
 .container img {
     display: block;
     margin: 0 auto;
-    width: 30%;
+    width: 50%;
     height: auto;
+}
+#cstr{
+  color: white;
+  background-color: red;
+  text-align:center;
+}
+#contact{
+  font-size: 16px;
 }
